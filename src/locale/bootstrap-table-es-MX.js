@@ -20,13 +20,13 @@ $.fn.bootstrapTable.locales['es-MX'] = {
     return `Mostrando ${pageFrom} a ${pageTo} de ${totalRows} filas`
   },
   formatSRPaginationPreText () {
-    return 'previous page'
+    return 'pagina anterior'
   },
   formatSRPaginationPageText (page) {
     return `to page ${page}`
   },
   formatSRPaginationNextText () {
-    return 'next page'
+    return 'siguiente página'
   },
   formatDetailPagination (totalRows) {
     return `Mostrando ${totalRows} filas`
@@ -44,10 +44,10 @@ $.fn.bootstrapTable.locales['es-MX'] = {
     return 'Mostrar/ocultar paginación'
   },
   formatPaginationSwitchDown () {
-    return 'Show pagination'
+    return 'Mostrar paginación'
   },
   formatPaginationSwitchUp () {
-    return 'Hide pagination'
+    return 'Ocultar paginación'
   },
   formatRefresh () {
     return 'Actualizar'
@@ -56,16 +56,16 @@ $.fn.bootstrapTable.locales['es-MX'] = {
     return 'Cambiar vista'
   },
   formatToggleOn () {
-    return 'Show card view'
+    return 'Mostrar vista de tarjeta'
   },
   formatToggleOff () {
-    return 'Hide card view'
+    return 'Ocultar vista de tarjeta'
   },
   formatColumns () {
     return 'Columnas'
   },
   formatColumnsToggleAll () {
-    return 'Toggle all'
+    return 'Alternar todo'
   },
   formatFullscreen () {
     return 'Pantalla completa'
@@ -77,16 +77,16 @@ $.fn.bootstrapTable.locales['es-MX'] = {
     return 'Auto Refresh'
   },
   formatExport () {
-    return 'Export data'
+    return 'Exportar datos'
   },
   formatJumpTo () {
     return 'GO'
   },
   formatAdvancedSearch () {
-    return 'Advanced search'
+    return 'Búsqueda Avanzada'
   },
   formatAdvancedCloseButton () {
-    return 'Close'
+    return 'Cerrar'
   }
 }
 
